@@ -1,4 +1,4 @@
-# Finso
+# Hi, I'm Finso!
 
 I build small, self-contained things for the web, usually because I wanted the
 thing to exist and could not find it. Most of what lands here is either a
