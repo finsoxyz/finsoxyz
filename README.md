@@ -4,8 +4,11 @@ I build small, self-contained things for the web, usually because I wanted the
 thing to exist and could not find it. Most of what lands here is either a
 personal project that started as a stubborn idea, or tacoSMP stuff.
 
-I have a soft spot for projects with no build step, no framework, and no
-dependencies that outlive the weekend.
+I have a soft spot for projects with nothing more than a broad vision.
+No plans, just random ideas that get turned into fun experiments.
+
+For full transparency, I am not a seasoned programmer, but am trying to
+use Claude Code as crutches for projects while I learn more.
 
 ## What I'm building
 
