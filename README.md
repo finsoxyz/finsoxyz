@@ -7,7 +7,7 @@ personal project that started as a stubborn idea, or tacoSMP stuff.
 I have a soft spot for projects with nothing more than a broad vision.
 No plans, just random ideas that get turned into fun experiments.
 
-For full transparency, I am not a seasoned programmer, but am trying to
+For full transparency, I am not a seasoned programmer, but I
 use Claude Code as crutches for projects while I learn more.
 
 ## What I'm building
